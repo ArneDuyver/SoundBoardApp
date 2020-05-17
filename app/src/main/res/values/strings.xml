@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Joni\'s Soundboard</string>
+
+    <string name="enter_directory_path">Enter the directory path below and press next</string>
+    <string name="enter_directory_path_here">Enter directory path here</string>
+    <string name="next_button">next</string>
+
+    <string name="menu_add">add</string>
+    <string name="menu_settings">settings</string>
+    <string name="menu_sounds">sounds</string>
+
+    <string name="add_title">Enter the title of the sound below</string>
+    <string name="add_title_here">Enter here the title of the sound</string>
+    <string name="add_filename">Enter the filename of the sound below</string>
+    <string name="add_filename_here">Enter the filename of the sound</string>
+    <string name="add_save_btn">Add</string>
+
+    <string name="settings_dirpath">Enter the new directory path below and press save</string>
+    <string name="settings_dirpath_here">Enter the new directory path here</string>
+    <string name="settings_save_btn">Save</string>
+</resources>
